@@ -13,10 +13,12 @@ Your website will have the same interface as our theme demo.
 
 ### Step by Step
 
-1.  **Install Theme Package**
+1. **Install Theme Package**
 
-    1.1.[Install theme by Arena Installation App.](/summary/theme-installation/arena-installation-application.md)
-    1.2. [Install theme by Upload Theme Package](/summary/theme-installation/manual-upload-theme.md)
+   1. [Install theme by Arena Installation App.](/summary/theme-installation/arena-installation-application.md)
+
+   2. [Install theme by Upload Theme Package](/summary/theme-installation/manual-upload-theme.md)
+
 2. [Setup converting currencies in your store](/summary/currency.md)
 3. [Install Requirement Shopfiy Apps](/app.md)
 4. [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
