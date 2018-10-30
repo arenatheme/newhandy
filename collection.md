@@ -18,7 +18,7 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 * From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
 
-![![](/assets/collection.png)
+![!\[\]\(/assets/collection.png\)
 ](/assets/thelook-collection.png)
 
 Now you can modify your collection layout.
@@ -37,5 +37,6 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 * From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
 * Select **Collection**
 * Move to **Pagination Collection Page** and select **Load More**
+
 
 
