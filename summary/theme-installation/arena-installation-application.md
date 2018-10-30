@@ -14,17 +14,18 @@ This is an application for Shopify designed by our engineers to support customer
    
    ![](/assets/install.png)
    
-4. **Insert your purchase code**. If you don't know how to get it [please refer here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ):  
+4. From your Shopify admins, go to [Apps](https://www.shopify.com/admin/apps), waiting to access the app dashboard.
+5. **Insert your purchase code**. If you don't know how to get it [please refer here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ):  
    
    ![](/assets/insert purchase code.png)
 
-5. Click **Show Installation Menu ** 
+6. Click **Show Installation Menu ** 
 
    ![](/assets/Installation menu.png)
    
-6. Check **Install Theme Package** option and click **Install Theme** and wait to finish the installation process. 
+7. Check **Install Theme Package** option and click **Install Theme** and wait to finish the installation process. 
 
-7. You may check other options when you already ** BACKUP YOUR DATA**. 
+8. You may check other options when you already ** BACKUP YOUR DATA**. 
 
 If you store is **new** without data you may select them on together at **step 6.**
 

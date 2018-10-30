@@ -26,7 +26,7 @@ For more detail about product page you may visit [https://help.shopify.com/en/ma
 
 
 
-![](/assets/product template.png)
+![](/assets/product template.png) 
 
 ### Customize product template with sections
 

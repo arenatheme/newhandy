@@ -15,8 +15,7 @@ You can install the 3D Warehouse app using the sign-up page.
 1. Open the [sign-up page](https://threed-warehouse.shopifycloud.com/).
 2. Enter your `myshopify.com`store domain.
 3. Click **Install**
-4. Review the details, then click
-   **Install app**
+4. Review the details, then click **Install app**
 
 You can access the 3D Warehouse app on the [Apps](https://www.shopify.com/admin/apps) page of your Shopifyadmin.
 
