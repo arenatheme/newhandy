@@ -10,7 +10,7 @@ To allow customers to view your products in AR please follow steps:
 
 You can install the 3D Warehouse app using the sign-up page.
 
-#### Steps: {#steps}
+#### Steps:
 
 1. Open the [sign-up page](https://threed-warehouse.shopifycloud.com/).
 2. Enter your `myshopify.com`store domain.

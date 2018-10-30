@@ -10,6 +10,8 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 ### Adding supported Meta field for Theme
 
+#### Steps
+
 1. Currently, **custom field extensions** only support **Chrome browser** so to use you must install this browser. [Download and install here](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
 2. Download & Install [**ShopifyFD Dashboard Tool Chrome Extension**](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)
@@ -21,7 +23,8 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
      The Store Metafield will showup.
      ![](/assets/ShopifyFD.png)
    * **Add New Metafield** & **click Save**
-     ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
+   
+   ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
 
 4. List of **Meta field** Arena support use
 
