@@ -9,12 +9,9 @@ For more detail about product page you may visit [https://help.shopify.com/en/ma
 * Product default: `product`
 * Product default support Augmented Reality 3d image by 3D Warehouse app: `product.product-ar `[^1]
   \(It's only support for IOS 12 Device\) 
-  * [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
-* Product with Bundle group product: `product.bundle`
-* Product Big Image Bundle: `product.big-image-bundle`
-  * [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
-* Product Big Image: `product.big-image`
-  * [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
+* Product with Bundle group product: `product.bundle`[^2]
+* Product Big Image Bundle: `product.big-image-bundle`[^3]
+* Product Big Image: `product.big-image`[^4]
 * Product Grid Image: `product.grid-image`
   * [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)
 * Product Grid Thumbnail: `product.grid-thumbnail`
@@ -81,6 +78,9 @@ Eg. [https://shopify.com/admin/themes/25027543155/editor\#/products/black-fashio
 
 
 
-[^1]: Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
+[^1] Demo [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
+[^2] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
+[^3] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
+[^4] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
 
 
