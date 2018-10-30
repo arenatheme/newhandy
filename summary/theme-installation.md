@@ -20,8 +20,11 @@ Your website will have the same interface as our theme demo.
    2. [Install theme by Upload Theme Package](/summary/theme-installation/manual-upload-theme.md)
 
 2. [Setup converting currencies in your store](/summary/currency.md)
+
 3. [Install Requirement Shopfiy Apps](/app.md)
-4. [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
+
+4. [Setup Shopify Metafield for Extend Function](/shopify-metafield.md)
+
 5. [Apply Theme Styles](/change-theme-styles.md)
 
 
