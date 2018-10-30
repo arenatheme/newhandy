@@ -2,8 +2,11 @@
 
 This is an application for Shopify designed by our engineers to support customers easily install the theme, as well as notifications about upgrades.
 
-#### Connect your Shopify store with the App.
+We recommend to use [Chrome Browser](https://www.google.com/chrome/) when using app 
 
+### Connect your Shopify store with Arena Installation App.
+
+#### Steps
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 
 2. **Enter Your Store URL**, click **Install** and Login your Shopify   
