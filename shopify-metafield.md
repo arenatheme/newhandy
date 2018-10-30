@@ -8,7 +8,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 ---
 
-### Adding supported Meta field for Electro Theme
+### Adding supported Meta field for Theme
 
 1. Currently, **custom field extensions** only support **Chrome browser** so to use you must install this browser. [Download and install here](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
@@ -23,7 +23,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
    * **Add New Metafield** & **click Save**
      ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
 
-4. List of **Meta field** Arena support use  
+4. List of **Meta field** Arena support use
 
 ![](/assets/metafield artemis.png)
 
@@ -50,6 +50,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
     - key: bundle_2
     - value: Add your product handle #2!
   ```
+
 * _**New: Add Progress bar: Only x left in stock**_
 
   ```
@@ -95,6 +96,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 ```
 
 * _Add Product Video Description_
+
   ```
     - namespace: c_f
     - key: video_url
@@ -134,6 +136,4 @@ As we’ve seen, metafields have three components: **a namespace, a key, and a v
 Eg. Collection page: [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=metafields.c_f.subcategory:string)
 
 In this URL, **c\_f** is the **metafield’s namespace** and **subcategory** is its key. You can replace these with values to match your use case. The **string** part of the URL tells Shopify about the type of data that we want to store in the metafield. The bulk editor is able to display **five types of metafields** – **string, money, boolean, select and number.**
-
-
 
