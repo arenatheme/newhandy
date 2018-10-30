@@ -13,7 +13,7 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 Different types of pages have different theme sections. When you first open the theme editor, the settings for the home page are shown.
 
-* To access the settings, **select the page type from the top bar drop-down menu:    **![](/assets/settings.png)
+* To access the settings, **select the page type from the top bar drop-down menu:  **![](/assets/settings.png)
 
 The **theme editor toolbar** is divided into **Sections **and T**heme settings**.  
 Next, let's explore how to configure our theme with built-in **Sections** and **Theme settings**
