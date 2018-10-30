@@ -6,22 +6,18 @@ For more detail about product page you may visit [https://help.shopify.com/en/ma
 
 **Artemis support 8 product alternative template**: \(You can read more detail about alternative product template here [https://help.shopify.com/en/themes/customization/store/create-alternate-templates](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)\)
 
-* Product default: `product`
-* Product default support Augmented Reality 3d image by 3D Warehouse app: `product.product-ar `[^1]
-  \(It's only support for IOS 12 Device\) 
-* Product with Bundle group product: `product.bundle`[^2]
-* Product Big Image Bundle: `product.big-image-bundle`[^3]
-* Product Big Image: `product.big-image`[^4]
-* Product Grid Image: `product.grid-image`
-  * [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)
-* Product Grid Thumbnail: `product.grid-thumbnail`
-  * [https://arena-artemis.myshopify.com/products/danin-product-sample](https://arena-artemis.myshopify.com/products/danin-product-sample)
-* Product Image Slider: `product.image-slider`
-  * [https://arena-artemis.myshopify.com/products/finity-product-sample](https://arena-artemis.myshopify.com/products/finity-product-sample)
-* Product Image Slider Version 2: `product.image-sliderv2`
-  * [https://arena-artemis.myshopify.com/products/anity-product-sample](https://arena-artemis.myshopify.com/products/anity-product-sample)
-
 ![](/assets/product template.png)
+
+* Product default: `product`[^1]
+* Product default support Augmented Reality 3d image by 3D Warehouse app (It's only support for IOS 12 Device\): `product.product-ar `[^2]
+* Product with Bundle group product: `product.bundle`[^3]
+* Product Big Image Bundle: `product.big-image-bundle`[^4]
+* Product Big Image: `product.big-image`[^5]
+* Product Grid Image: `product.grid-image`[^6]
+* Product Grid Thumbnail: `product.grid-thumbnail`[^7]
+* Product Image Slider: `product.image-slider`[^8]
+* Product Image Slider Version 2: `product.image-sliderv2`[^9]
+
 
 ### Customize product template with sections
 
@@ -76,11 +72,35 @@ Eg. [https://shopify.com/admin/themes/25027543155/editor\#/products/black-fashio
 * [Countdown Timer](/products/count-down-product.md)
 * [Exit Intent Popup Coupon](/extensions/exit-intent-popup.md)
 
+### Demos
+
+[^1] Demo [https://arena-artemis.myshopify.com/products/fixair-product-sample](https://arena-artemis.myshopify.com/products/fixair-product-sample)
+[^2] Demo [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
+[^3] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
+[^4] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
+[^5] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
+[^6] Demo [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)
+[^7] Demo [https://arena-artemis.myshopify.com/products/danin-product-sample](https://arena-artemis.myshopify.com/products/danin-product-sample)
+[^8] Demo [https://arena-artemis.myshopify.com/products/finity-product-sample](https://arena-artemis.myshopify.com/products/finity-product-sample)
+[^9] Demo [https://arena-artemis.myshopify.com/products/anity-product-sample](https://arena-artemis.myshopify.com/products/anity-product-sample)
 
 
-[^1] Demo [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
-[^2] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
-[^3] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
-[^4] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
