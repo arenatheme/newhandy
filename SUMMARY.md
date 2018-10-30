@@ -31,6 +31,7 @@
   * [Short Description](products/countdown-product.md)
   * [Countdown Timer](products/count-down-product.md)
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
+  * [Product AR](products/product-ar.md)
 * [Pages](pages.md)
   * [Lookbook](pages/lookbook.md)
   * [About us & Contact Us](pages/about-us.md)
