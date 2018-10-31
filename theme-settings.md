@@ -67,6 +67,17 @@ At **Cart Page**, you can customize:
 
 * Terms and Conditions
 
+### Product Item Styles
+
+It's will change display for product grid layout in Homepage & Collection (Product Grid).
+
+![](/assets/product-style.png)
+* Show product review
+* Use variant images for swatch color.
+* Metafields Countdown Timer: c_f.countdown_timer
+* Hover effect
+
+
 ### FOMO \(Fear Of Missing Out\) Popups
 
 At **FOMO Popup**, you can customize:
