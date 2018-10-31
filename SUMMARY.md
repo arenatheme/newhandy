@@ -17,10 +17,10 @@
 ## Customization
 
 * [Theme Customization:](theme-customization.md)
-  * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
-* [Header](header.md)
-  * [Mega Navigation Setup](extensions/mega-navigation-setup.md)
+  * [Sections](sections.md)
+  * [Header](header.md)
+    * [Mega Navigation Setup](extensions/mega-navigation-setup.md)
 * [Collection](collection.md)
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
