@@ -21,6 +21,7 @@
   * [Sections](sections.md)
   * [Header](header.md)
     * [Add Mega Navigation](extensions/mega-navigation-setup.md)
+  * [Footer](footer.md)
 * [Collection](collection.md)
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
@@ -42,4 +43,6 @@
 * [Fomo Popup](theme-settings.md)
 * [ArenaFont](how-to-use-and-update-arenafont.md)
 * [Changelog](extensions/changelog.md)
+
+
 
