@@ -23,6 +23,8 @@
     * [Header](header.md)
       * [Add Mega Navigation](extensions/mega-navigation-setup.md)
 * [Collection](collection.md)
+  * [Add Sub Collection](collection/add-sub-collection.md)
+  * [Add Nested Collection Menu](collection/add-nested-collection-menu.md)
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
   * [Product Grouping images with variants](products/product-grouping-images-with-variants.md)
@@ -43,6 +45,4 @@
 * [Fomo Popup](theme-settings.md)
 * [ArenaFont](how-to-use-and-update-arenafont.md)
 * [Changelog](extensions/changelog.md)
-
-
 

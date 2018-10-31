@@ -19,7 +19,7 @@ The exact layout and appearance of collection pages depends on your theme.
 3. Quick order form collection: collection.quick-order
    eg. [https://arena-handy.myshopify.com/collections/kitchen-things](https://arena-handy.myshopify.com/collections/kitchen-things)
 
-This will allow you to view a collection or page on an alternative template by adding the templates name to the URL of the page. The format we would use here is `view=alternative_template_name`   
+This will allow you to view a collection or page on an alternative template by adding the templates name to the URL of the page. The format we would use here is `view=alternative_template_name`  
 and this would be added to the end of the page URL.
 
 You could assign a collection from the admin:
@@ -28,15 +28,15 @@ You could assign a collection from the admin:
 
 ---
 
-## Customize Collection
+## Customize Collection Page by Sections
 
 #### Steps
 
 * From your Shopify admin, go to **Product** &gt; **Collection**. Creat or Select a collection to assign template.
 
 * Assign template to collection  
-      Eg.   
-      I assign collection infinite to collection   
+      Eg.  
+      I assign collection infinite to collection  
       [https://arena-handy.myshopify.com/collections/kitchen-thing](https://arena-handy.myshopify.com/collections/kitchen-thing).  
       Collection handle: kitchen-things
 
@@ -70,6 +70,12 @@ There are 3 Static Section: **Header \(apply for all pages\), Collection \(colle
   * **SIDEBAR** PLACEMENT
   * CONTENT: Setting contents for **SIDEBAR**
   * **Theme Settings**: Setting from this part will effect to the whole website.
+##### CONTENT
+    * Sub collection: Display Sub Collection to Collection page.
+    * Toggle Filter: Filter for your Collection page
+    * Sidebar Collection Menu: Collection Nestest Navigation show at Sidebar.
+    * Sidebar Banner: Banner at sidebar
+    * Sidebar Product: Product featured as sidebar
 
 ---
 

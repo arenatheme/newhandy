@@ -1,34 +1,22 @@
-## Product pages
+# Product pages
 
 The product page showcases a product and its variants, and includes product images, pricing information, a product description, and an Add to cart button. Every product that you have specified in the admin to be available on your online store has its own product page on your website. There are many ways that you can customize the layout, style, and behavior of your product pages.
 
 For more detail about product page you may visit [https://help.shopify.com/en/manual/products/understanding-products](https://help.shopify.com/en/manual/products/understanding-products)
 
-**Handy support 5 product alternative template**: \(You can read more detail about alternative product template here [https://help.shopify.com/en/themes/customization/store/create-alternate-templates](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)\)
+## Product Alternate Templates
+
+Handy support 3 [product alternative template](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)
 
 ![](/assets/product template.png)
 
-* Product Default: `product.default`. [^1]
-* Product Big Image: `product.big-image`[^2]
-* Product Grid Image: `product.grid-image`[^3]
-* Product Grid Thumbnail: `product.grid-thumbnail`[^4]
-* Product Image Slider: `product.image-slider`[^5]
-* Product Image Slider Version 2: `product.image-sliderv2`[^6]
+* Product Default: `product`. [^1]
+* Product Default with support Bundle Product: `product.bundle`[^2]
+* Product Default with Affliate Refer Product  `product.redirect`[^3]
 
-In addition to the product type that supports metafield bundle product (group product) we have created two separate product support templates.
+Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\)
 
-* Product default with bundle product: `product.default-bundle`[^7]
-* Product Big image with bundle product: `product.big-image-bundle`[^8]
-
-[How to add bundle product](/products/bundle-product-page.md)
-
-To support product with AR we creat  
-* 9. Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\): `product.default-ar`[^9] `?view=default-ar` 
-
-
-
-
-## Customize product templates with sections
+## Customize Product Page by Sections
 
 From your Shopify admin, go to **Online Store &gt; Themes**
 
@@ -41,9 +29,9 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 You can change product page template view by add `?view=product.templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.  
 
-* product.default ->  `?view=default`
-* product.bundle -> `?view=product.bundle`
-* product.image-sliderv2 -> `?view=image-sliderv2`
+* product.default ->  `?view=\`
+* product.bundle -> `?view=bundle`
+* product.image-sliderv2 -> `?view=redirect`
  
 ### Related topics
 
