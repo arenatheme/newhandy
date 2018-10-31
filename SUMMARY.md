@@ -27,17 +27,18 @@
   * [Add Nested Collection Menu](collection/add-nested-collection-menu.md)
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
-  * [Product Grouping images with variants](products/product-grouping-images-with-variants.md)
   * [Product Size Variant](products/product-quantity-selector.md)
   * [Short Description](products/countdown-product.md)
   * [Countdown Timer](products/count-down-product.md)
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
-  * [Add Bundle Product ](products/bundle-product-page.md)
   * [Add Product  Augmented Reality 3D](products/product-ar.md)
+  * [Add Bundle Product ](products/bundle-product-page.md)
 * [Pages](pages.md)
   * [Lookbook](pages/lookbook.md)
   * [About us & Contact Us](pages/about-us.md)
+  * Vendor List
+  * Store Location
 
 ## Extensions
 
