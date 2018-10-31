@@ -10,7 +10,12 @@ After you create a collection, it can be shown on your online store as a webpage
 
 The exact layout and appearance of collection pages depends on your theme.
 
-### Customize Collection Page
+## Collection templates:
+* Default template
+* Infinity Collection: Set template with Infinity load product
+* Quick order form Collection:
+
+## Customize Collection Page
 #### Steps
 From your Shopify admin, go to **Online Store &gt; Themes**
 
@@ -32,6 +37,15 @@ There are 3 Static Section: **Header (apply for all pages), Collection \(collect
  * **Theme Settings**: Setting from this part will effect to the whole website.
  
 ---
+
+
+## Switch collection templates via the URL
+
+This will allow you to view a colle or page on an alternative template by adding the templates name to the URL of the page. The format we would use here is ?view=alternative_template_name and this would be added to the end of the page URL.
+
+Here's an example for you to review (NB: these links are for demo purposes only):
+
+
 
 ### Setting Pagination Collection Page: Load More Button
 
