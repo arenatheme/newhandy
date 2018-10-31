@@ -42,13 +42,7 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 You can change product page template view by add `?view=product.templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.  
 
 * product.default ->  `?view=default`
-* product.product-ar -> `?view=product-ar`
 * product.bundle -> `?view=product.bundle`
-* product.big-image-bundle -> `?view=big-image-bundle`
-* product.big-image -> `?view=big-image`
-* product.grid-image -> `?view=grid-image`
-* product.grid-thumbnail -> `?view=grid-thumbnail`
-* product.image-slider -> `?view=image-slider`
 * product.image-sliderv2 -> `?view=image-sliderv2`
  
 ### Related topics

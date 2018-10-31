@@ -10,22 +10,16 @@ After you create a collection, it can be shown on your online store as a webpage
 
 The exact layout and appearance of collection pages depends on your theme.
 
-## Collection alternative templates:
+## Collection alternate templates:
 
 1. Default template `collection`
-   `view=collection`
-
 2. Infinity Collection: `collection.infinite`
    Set template with Infinity load product
    eg. [https://arena-handy.myshopify.com/collections/kitchen-things](https://arena-handy.myshopify.com/collections/kitchen-things)
-   `view=collection.infinite` 
-
 3. Quick order form collection: collection.quick-order
    eg. [https://arena-handy.myshopify.com/collections/kitchen-things](https://arena-handy.myshopify.com/collections/kitchen-things)
-   `view=collection.quick-order`
 
-This will allow you to view a collection or page on an alternative template by adding the templates name to the URL of the page. The format we would use here is 
-`view=alternative_template_name` 
+This will allow you to view a collection or page on an alternative template by adding the templates name to the URL of the page. The format we would use here is `view=alternative_template_name`   
 and this would be added to the end of the page URL.
 
 You could assign a collection from the admin:
@@ -34,18 +28,36 @@ You could assign a collection from the admin:
 
 ---
 
-## Customize Collection Page
+## Customize Collection
 
 #### Steps
+
+* From your Shopify admin, go to **Product** &gt; **Collection**. Creat or Select a collection to assign template.
+
+* Assign template to collection  
+      Eg.   
+      I assign collection infinite to collection   
+      [https://arena-handy.myshopify.com/collections/kitchen-thing](https://arena-handy.myshopify.com/collections/kitchen-thing).  
+      Collection handle: kitchen-things
+
+![](/assets/handlecol.png)
 
 From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
 * From the top bar drop-down menu, select the type of page that you want to edit. Select **Collection pages**
-* Change collection templates to Customize by add `view=alternative_template_name` at the end of URL at browser
+* Change collection templates to Customize by add at the end of URL at browser
 
+**Note:** Collection not support to use `view=alternative_template_name` when you customize Sections. In order to customize collection template, you should change right handle collection as template.
 
-#### Options:
+```
+  Eg. .../editor#/collections/birthday-gifts
+  -> customize collection default
+  Eg. .../editor#/collections/kitchen-things
+  -> customize collection infinite (as I assign kitchen-things to display Infinite template before)
+```
+
+#### Options: depend on collection templates
 
 There are 3 Static Section: **Header \(apply for all pages\), Collection \(collection detail\), Bottoms \(below collection detail\), Footer \(apply for all pages\). **
 
