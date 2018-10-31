@@ -6,7 +6,6 @@ At **Typography**, you can customize:
 
 * Web fonts.
 * Font size \(in px\).
-* Letter Spacing
 
 ### Icon
 
@@ -22,7 +21,7 @@ The theme use **arenafont **to display icon by CSS class. You may follow instruc
 
 At **Colors & Style**, you can customize:
 
-* Site Width Mode.
+* Website Width Mode.
 * Background body page.
 * Breadcrumb.
 * Header color
@@ -37,12 +36,14 @@ At **Colors & Style**, you can customize:
 At Settings Extended you can customize extended function that use for theme:
 
 * Extended function: Sticky navigation, quickview, back to top...
-* Homepage: Add Left Column Section
-* Collection page: Select view mobile default, EU Cookie Policy
+* Homepage: Show left column section
+* Collection: Select view mobile default, Enable product's image blance, Fixed Image Height
+* Product: Sticky Add to cart on Mobile
+* EU Cookie Policy
 
-### Menu Labels
+### Navigation Labels
 
-![](/assets/thelook-navigation-label.png)
+![](/assets/ handy-label.png)
 
 ### Cart Page
 
