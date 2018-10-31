@@ -25,28 +25,14 @@ Now you will show Footer Setting theme options:
 
 Our standard grid has 12 columns. It's mean 12 columns \( grids\)  equal to the entire page width.
 
-So a 6 grid column  would be 50% of the containing blocks width. An 8 would be 3/4th \(75%\) width. 
+So a 6 grid column  would be 50% of the containing blocks width. An 8 would be 3/4th \(75%\) width.
 
-Eg. 
+Eg.![](/assets/grid.png)
 
-* Logo 4
-* Menu items 3
+* Logo 3
+* Menu items 2
 * Information 3
-* Subcrible form 2
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* Subcrible form 4
 
 
 
