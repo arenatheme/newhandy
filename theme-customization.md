@@ -22,7 +22,6 @@ Different types of pages have different **theme sections**. When you first open 
 
 ![](https://help.shopify.com/assets/manual/customize/editor-product-e42f3cd79a23002e746a785271cc687537498560926798c5ccbff819050a2bf0.jpg)
 
-
 You can use sections to modify the content and layout of the different pages on your store. You can use theme settings to customize your store's fonts and colors, and make changes to your social media links and checkout settings.
 
 ---

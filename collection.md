@@ -12,9 +12,11 @@ The exact layout and appearance of collection pages depends on your theme.
 
 ### Customize Collection Page
 
-From your Shopify admin, go to **Online Store &gt; Themes**
+Steps:
 
-* Find the theme that you want to edit and click **Customize**
+* CONTACT BOX
+  
+  Find the theme that you want to edit and click **Customize**
 
 * From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
 

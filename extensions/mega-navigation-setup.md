@@ -2,6 +2,8 @@ As this is a completely new Mega Menu, if you have any installation issues, plea
 
 ### How to setup Mega Navigation
 
+#### Steps
+
 From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
@@ -28,16 +30,13 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 ![](/assets/navtype.png)
 
-The theme support 3 type of Mega navigation styles.  
+The theme support 2 types of Mega navigation styles.  
 ![](/assets/mega navigation type.png)
 
 1. Horizontal Mega Navagation  \(aka Mega Navigation\)
 
 ![](/assets/nav1.png)  
-2. Vertical Mega Navigation
-
-![](/assets/navi2.png)  
-3. Mega Navigation with Tab
+2. Mega Navigation with Tab
 
 ![](/assets/navi3.png)
 
@@ -87,9 +86,6 @@ The theme support 3 type of Mega navigation styles.
     * Collection -&gt; Collection component
     * Image -&gt; Image component
   * You can settings for total 4 columns
-    ##### Add Vertical Mega Navagation Content
-
-Similar to Horizontal Mega Navigation
 
 ##### Mega Navigation with Tab
 

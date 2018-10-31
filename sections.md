@@ -8,7 +8,7 @@ From your Shopify
 
 2. **From the top bar drop-down menu, select the type of page that you want to edit.**
 
-   For example, if you want to edit your **Product pages **section, then select **Product pages **from the drop-down menu. Because the **Header, Bottom,** **Footer **sections appear on every page of your online store, you can edit these sections regardless of the page type that you select.  
+   For example, if you want to edit your **Product pages **section, then select **Product pages **from the drop-down menu. Because the **Header, Left Column Homepage,** **Footer **sections appear on every page of your online store, you can edit these sections regardless of the page type that you select.  
    ![](/assets/static sections.png)
 
 3. Click the section containing the content that you want to edit.
