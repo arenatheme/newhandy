@@ -23,7 +23,7 @@ In addition to the product type that supports metafield bundle product (group pr
 [How to add bundle product](/products/bundle-product-page.md)
 
 To support product with AR we creat  
-* 9. Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\): `product.default-ar `[^9] `?view=product.default-ar` 
+* 9. Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\): `product.default-ar`[^9] `?view=default-ar` 
 
 
 
@@ -42,14 +42,14 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 You can change product page template view by add `?view=product.templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.  
 
 * product.default ->  `?view=default`
-* product.product-ar -> `?view=product.product-ar`
+* product.product-ar -> `?view=product-ar`
 * product.bundle -> `?view=product.bundle`
-* product.big-image-bundle -> `?view=product.big-image-bundle`
-* product.big-image -> `?view=product.big-image`
-* product.grid-image -> `?view=product.grid-image`
-* product.grid-thumbnail -> `?view=product.grid-thumbnail`
-* product.image-slider -> `?view=product.image-slider`
-* product.image-sliderv2 -> `?view=product.image-sliderv2`
+* product.big-image-bundle -> `?view=big-image-bundle`
+* product.big-image -> `?view=big-image`
+* product.grid-image -> `?view=grid-image`
+* product.grid-thumbnail -> `?view=grid-thumbnail`
+* product.image-slider -> `?view=image-slider`
+* product.image-sliderv2 -> `?view=image-sliderv2`
  
 ### Related topics
 
