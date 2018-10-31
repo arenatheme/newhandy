@@ -35,7 +35,6 @@
 * [Pages](pages.md)
   * [Lookbook](pages/lookbook.md)
   * [About us & Contact Us](pages/about-us.md)
-  * [FAQs](pages/faqs.md)
 
 ## Extensions
 
