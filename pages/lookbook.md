@@ -3,13 +3,13 @@ From your Shopify admin, go to Add a new page to your online store:
 Select page template: 
 
 * Page Lookbook - page.lookbook
- * Demo: https://arena-artemis.myshopify.com/pages/lookbook-1 
+ * Demo: https://arena-Handy.myshopify.com/pages/lookbook-1 
 * Page Lookbook slider - page.lookbook-slider
- * Demo: https://arena-artemis.myshopify.com/pages/lookbook-2
+ * Demo: https://arena-Handy.myshopify.com/pages/lookbook-2
 * Page Lookbook slider V2 - page.lookbook-slider-2
- * Demo: https://arena-artemis.myshopify.com/pages/lookbook-3
+ * Demo: https://arena-Handy.myshopify.com/pages/lookbook-3
 *  Page Lookbook grid - page.lookbook-grid
- * Demo: https://arena-artemis.myshopify.com/pages/lookbook-4
+ * Demo: https://arena-Handy.myshopify.com/pages/lookbook-4
 
 ####2. Customize Lookbook
 

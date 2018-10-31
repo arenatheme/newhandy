@@ -14,7 +14,7 @@ From your Shopify admin, go to **Online Store &gt; Themes**
     * Box Layout: Small Desktop Screen (<1300px)
     * Wide Layout: Wide Desktop Screen (>1900px)
     * Wide Layout with padding (Wide mode with padding left & right side)
-  * Header Style: Artemis support 11 header style
+  * Header Style: Handy support 11 header style
   * Header Message
   * Logo image.
   * Logo Light Image. It's use to adapt in the case background is dark type.

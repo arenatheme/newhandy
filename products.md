@@ -4,7 +4,7 @@ The product page showcases a product and its variants, and includes product imag
 
 For more detail about product page you may visit [https://help.shopify.com/en/manual/products/understanding-products](https://help.shopify.com/en/manual/products/understanding-products)
 
-**Artemis support 5 product alternative template**: \(You can read more detail about alternative product template here [https://help.shopify.com/en/themes/customization/store/create-alternate-templates](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)\)
+**Handy support 5 product alternative template**: \(You can read more detail about alternative product template here [https://help.shopify.com/en/themes/customization/store/create-alternate-templates](https://help.shopify.com/en/themes/customization/store/create-alternate-templates)\)
 
 ![](/assets/product template.png)
 
@@ -64,15 +64,15 @@ You can change product page template view by add `?view=product.templatename` at
 
 ### Demos
 
-[^1] Demo [https://arena-artemis.myshopify.com/products/fixair-product-sample](https://arena-artemis.myshopify.com/products/fixair-product-sample)
-[^2] Demo [https://arena-artemis.myshopify.com/products/gooddox-product-sample](https://arena-artemis.myshopify.com/products/gooddox-product-sample)
-[^3] Demo [https://arena-artemis.myshopify.com/products/quisque-placerat-libero](https://arena-artemis.myshopify.com/products/quisque-placerat-libero)
-[^4] Demo [https://arena-artemis.myshopify.com/products/danin-product-sample](https://arena-artemis.myshopify.com/products/danin-product-sample)
-[^5] Demo [https://arena-artemis.myshopify.com/products/finity-product-sample](https://arena-artemis.myshopify.com/products/finity-product-sample)
-[^6] Demo [https://arena-artemis.myshopify.com/products/anity-product-sample](https://arena-artemis.myshopify.com/products/anity-product-sample)
-[^7] Demo [https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top](https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top)
-[^8] Demo [https://arena-artemis.myshopify.com/products/consectetur-nibh-eget](https://arena-artemis.myshopify.com/products/consectetur-nibh-eget)
-[^9] Demo [https://arena-artemis.myshopify.com/products/flexlam-product-sample](https://arena-artemis.myshopify.com/products/flexlam-product-sample)
+[^1] Demo [https://arena-Handy.myshopify.com/products/fixair-product-sample](https://arena-Handy.myshopify.com/products/fixair-product-sample)
+[^2] Demo [https://arena-Handy.myshopify.com/products/gooddox-product-sample](https://arena-Handy.myshopify.com/products/gooddox-product-sample)
+[^3] Demo [https://arena-Handy.myshopify.com/products/quisque-placerat-libero](https://arena-Handy.myshopify.com/products/quisque-placerat-libero)
+[^4] Demo [https://arena-Handy.myshopify.com/products/danin-product-sample](https://arena-Handy.myshopify.com/products/danin-product-sample)
+[^5] Demo [https://arena-Handy.myshopify.com/products/finity-product-sample](https://arena-Handy.myshopify.com/products/finity-product-sample)
+[^6] Demo [https://arena-Handy.myshopify.com/products/anity-product-sample](https://arena-Handy.myshopify.com/products/anity-product-sample)
+[^7] Demo [https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top](https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top)
+[^8] Demo [https://arena-Handy.myshopify.com/products/consectetur-nibh-eget](https://arena-Handy.myshopify.com/products/consectetur-nibh-eget)
+[^9] Demo [https://arena-Handy.myshopify.com/products/flexlam-product-sample](https://arena-Handy.myshopify.com/products/flexlam-product-sample)
 
 
 

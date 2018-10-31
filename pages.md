@@ -19,7 +19,7 @@ From your Shopify admin, go to **Online Store**&gt;**Pages**.
 ![](/assets/page-template.png)
 5. Click **Save**
 
-### Artemis support 9 page templates \(page type\).
+### Handy support 9 page templates \(page type\).
 
 You have to add page and select template field to show pages as our demo. 
 It's include

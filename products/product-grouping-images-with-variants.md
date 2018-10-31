@@ -1,4 +1,4 @@
-Take a look at the demo to see how it should end up functioning: https://arena-artemis.myshopify.com/products/womens-striped
+Take a look at the demo to see how it should end up functioning: https://arena-Handy.myshopify.com/products/womens-striped
 
 Just follow below steps, you will have a product with product images are grouped by color.
 

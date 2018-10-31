@@ -12,8 +12,8 @@ Wishlist & Compare is not offered by Shopify as a function so we have built a Fr
 
 To install **Arena Wishlist Compare**  apply with the theme please following instruction: 
 
-1. From your Shopify admin, go to **Online Store &gt; Themes**. Click **Action** and **Public** **Artemis** become **Current theme**.
-_Eg. I would like to install Wishlist & Compare for **Artemis** theme
+1. From your Shopify admin, go to **Online Store &gt; Themes**. Click **Action** and **Public** **Handy** become **Current theme**.
+_Eg. I would like to install Wishlist & Compare for **Handy** theme
 _![](/assets/currenttheme.png)
 
 2. Go to [https://apps.arenatheme.com/install](https://apps.arenatheme.com/install)

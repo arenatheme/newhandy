@@ -2,11 +2,11 @@
 From your Shopify admin, go to **Add a new page** to your online store & Select page template: 
 
 * Page: About Us - page.about-us
- * Demo: https://arena-artemis.myshopify.com/pages/about-us
+ * Demo: https://arena-Handy.myshopify.com/pages/about-us
 * Page: About Us V2 - page.about-us-v2
- * Demo: https://arena-artemis.myshopify.com/pages/about-us-v2
+ * Demo: https://arena-Handy.myshopify.com/pages/about-us-v2
 * Page: Contact Us - page.contact-us
- * Demo: https://arena-artemis.myshopify.com/pages/contact-us
+ * Demo: https://arena-Handy.myshopify.com/pages/contact-us
 
 
 ####2. Customize About us & Contact us page

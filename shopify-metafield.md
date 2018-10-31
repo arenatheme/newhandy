@@ -28,7 +28,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 4. List of **Meta field** Arena support use
 
-![](/assets/metafield artemis.png)
+![](/assets/metafield Handy.png)
 
 **Collection Page**
 

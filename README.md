@@ -1,6 +1,6 @@
-## Getting started with Artemis
+## Getting started with Handy
 
-Document Online version: https://legacy.gitbook.com/read/book/arenatheme/artemis
+Document Online version: https://legacy.gitbook.com/read/book/arenatheme/Handy
 
 
 ###New to Shopify?

@@ -2,7 +2,7 @@
 From your Shopify admin, go to **Add a new page** to your online store & Select page template: 
 
 * Page: FAQs - page.faq
- * Demo: https://arena-artemis.myshopify.com/pages/faqs
+ * Demo: https://arena-Handy.myshopify.com/pages/faqs
 
 ####2. Customize FAQs page
 

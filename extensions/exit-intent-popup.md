@@ -1,6 +1,6 @@
 Take a look at the demo to see how it should end up functioning:
 
-https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top
+https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top
 ### Creat Coupon Code
 You can offer your customers a fixed value, percentage, or shipping discount on products, collections, or variants in your store. If you are selling online, then you can also offer buy X get Y discounts to encourage customers to buy items.
 

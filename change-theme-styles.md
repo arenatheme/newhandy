@@ -2,7 +2,7 @@
 
 The settings\_data.json file stores the theme settings data saved from the theme editor. It can also include ‘theme styles’, also known as presets.
 
-**Artemis ** included 12 Homepage Styles that you switch by replace presets settings\_data.json.
+**Handy ** included 12 Homepage Styles that you switch by replace presets settings\_data.json.
 
 1. From your Shopify admin, go to **Online Store &gt; Themes.**
 2. Find the theme you want to edit, and then click **Actions &gt; Edit code**
