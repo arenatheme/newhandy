@@ -76,6 +76,7 @@ It's will change display for product grid layout in Homepage & Collection (Produ
 * Use variant images for swatch color.
 * Metafields Countdown Timer: c_f.countdown_timer
 * Hover effect
+* Product Labels
 
 
 ### FOMO \(Fear Of Missing Out\) Popups
