@@ -17,6 +17,7 @@ Handy support 3 [product alternative template](https://help.shopify.com/en/theme
 Product default support Augmented Reality 3D image by 3D Warehouse app (It's only support for IOS 12 Device\)
 
 ## Customize Product Page by Sections
+####Steps
 
 From your Shopify admin, go to **Online Store &gt; Themes**
 
@@ -25,7 +26,8 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 * From the top bar drop-down menu, select the type of page that you want to edit from the top bar drop-down menu.
 
 * Select **Product pages.** Now you will access to edit Sections for Product page.  
-  However, Shopify only support for only **1 product page template** to customize at select tab.
+
+However, Shopify only support for only **1 product page template** to customize at select tab.
 
 You can change product page template view by add `?view=product.templatename` at the end of product url which redirect is product template name.  The default template can switch with no view name `?view=\`.  
 

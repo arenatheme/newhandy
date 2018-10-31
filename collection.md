@@ -45,10 +45,15 @@ You could assign a collection from the admin:
 From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
-* From the top bar drop-down menu, select the type of page that you want to edit. Select **Collection pages**
+* From the top bar drop-down menu, select the type of page that you want to edit. **Select** **Collection pages**
 * Change collection templates to Customize by add at the end of URL at browser
 
-**Note:** Collection not support to use `view=alternative_template_name` when you customize Sections. In order to customize collection template, you should change right handle collection as template.
+**Note:** 
+
+* Shopify only support for only **1 Collection page template** to customize at Section **Select**.
+* Collection is not support to use `view=alternative_template_name` when you customize Sections. 
+
+In order to customize collection template, you should change right handle collection as template.
 
 ```
   Eg. .../editor#/collections/birthday-gifts
