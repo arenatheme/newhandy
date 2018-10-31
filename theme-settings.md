@@ -1,6 +1,6 @@
 Think of theme settings like backbone of a theme.
 
-### Typography
+## Typography
 
 At **Typography**, you can customize:
 

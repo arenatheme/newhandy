@@ -12,13 +12,16 @@ Before you customize your theme, it's a good idea to do the following tasks:
 * From your Shopify admin, go to **Online Store** &gt; **Themes**.
 * Find the theme that you want to edit and click **Customize**.
 
+The theme editor toolbar is divided into Sections and Theme settings.
+
+![](https://help.shopify.com/assets/themes/editor-tabs-d6a578d45bf5feac7da3f618de523b00eacf724049c10e6cd6348fd061bb7e1f.png)
+
+**Theme settings** like backbone of a theme included settings default for your Shopify store at all pages.
+
 Different types of pages have different **theme sections**. When you first open the theme editor, the settings for the home page are shown. To access the settings for other pages, select the page type from the top bar drop-down menu:
 
 ![](https://help.shopify.com/assets/manual/customize/editor-product-e42f3cd79a23002e746a785271cc687537498560926798c5ccbff819050a2bf0.jpg)
 
-The theme editor toolbar is divided into Sections and Theme settings.
-
-![](https://help.shopify.com/assets/themes/editor-tabs-d6a578d45bf5feac7da3f618de523b00eacf724049c10e6cd6348fd061bb7e1f.png)
 
 You can use sections to modify the content and layout of the different pages on your store. You can use theme settings to customize your store's fonts and colors, and make changes to your social media links and checkout settings.
 
