@@ -11,24 +11,26 @@ After you create a collection, it can be shown on your online store as a webpage
 The exact layout and appearance of collection pages depends on your theme.
 
 ### Customize Collection Page
+#### Steps
+From your Shopify admin, go to **Online Store &gt; Themes**
 
-Steps:
+* Find the theme that you want to edit and click **Customize**
+* From the top bar drop-down menu, select the type of page that you want to edit. Select **Collection pages**
 
-* CONTACT BOX
-  
-  Find the theme that you want to edit and click **Customize**
+#### Options:
 
-* From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
+There are 3 Static Section: **Header (apply for all pages), Collection \(collection detail\), Bottoms (below collection detail), Footer (apply for all pages). **
 
-![!\[\]\(/assets/collection.png\)
-](/assets/thelook-collection.png)
-
-Now you can modify your collection layout.
-
-There are 3 Static Section: **Header, Collection \(main content\), Footer. **You can click to each sections to be setting following panel.
-
-![](/assets/collection-modify.png)
-
+* Collection pages
+ * Products per page: Set the number of products show on each collection page
+ * Show collection mode view: Show select option mode view Grid/List
+ * Show collection Sort by
+ * Collection description position
+ * BREAKCRUMB
+ * **SIDEBAR** PLACEMENT
+ * CONTENT: Setting contents for **SIDEBAR**
+ * **Theme Settings**: Setting from this part will effect to the whole website.
+ 
 ---
 
 ### Setting Pagination Collection Page: Load More Button
