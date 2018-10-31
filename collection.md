@@ -11,10 +11,12 @@ After you create a collection, it can be shown on your online store as a webpage
 The exact layout and appearance of collection pages depends on your theme.
 
 ## Collection templates:
-* Default template
-* Infinity Collection: Set template with Infinity load product
-* Quick order form Collection:
-
+ 1. Default template `collection`
+ 2. Infinity Collection: `collection.infinite`
+ Set template with Infinity load product
+ eg. https://arena-handy.myshopify.com/collections/kitchen-things
+ 3. Quick order form collection: collection.quick-order
+eg. https://arena-handy.myshopify.com/collections/kitchen-things
 ## Customize Collection Page
 #### Steps
 From your Shopify admin, go to **Online Store &gt; Themes**
