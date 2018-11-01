@@ -3,6 +3,7 @@ To allow customers to view your products in AR please follow steps:
 * [Step 1: Install the 3D Warehouse app](https://help.shopify.com/en/manual/apps/apps-by-shopify/3d-warehouse#step-1-install-the-3d-warehouse-app)
 * [Step 2: Get 3D models of your products](https://help.shopify.com/en/manual/apps/apps-by-shopify/3d-warehouse#step-2-get-3d-models-of-your-products)
 * [Step 3: Add a 3D model to the 3D Warehouse app](https://help.shopify.com/en/manual/apps/apps-by-shopify/3d-warehouse#step-3-add-a-3d-model-to-the-3d-warehouse-app)
+* Step 4: Assign product with default product template
 
 ---
 
