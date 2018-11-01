@@ -22,7 +22,7 @@
     * [Footer](footer.md)
     * [Header](header.md)
       * [Add Mega Navigation](extensions/mega-navigation-setup.md)
-      * Left Column Section
+      * [Left Column Section](extensions/left-column-section.md)
 * [Collection](collection.md)
   * [Add Sub Collection](collection/add-sub-collection.md)
   * [Add Nested Collection Menu](collection/add-nested-collection-menu.md)

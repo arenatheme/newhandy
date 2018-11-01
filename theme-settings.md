@@ -31,11 +31,12 @@ At **Colors & Style**, you can customize:
 * Buttons color.
   ....
 
-### Settings Extended
+### General Settings
 
 At Settings Extended you can customize extended function that use for theme:
 
-* Extended function: Sticky navigation, quickview, back to top...
+* OVERVIEW
+* Extended function: Enable Lazy loading, Quick View Product, Disable Ajax Cart, Enable Catalog Mode, Enable Search Function, Enable Wishlist, Enable Compare, Back to Top button...
 * Homepage: Show left column section
 * Collection: Select view mobile default, Enable product's image blance, Fixed Image Height
 * Product: Sticky Add to cart on Mobile
