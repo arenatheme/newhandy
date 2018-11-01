@@ -1,3 +1,5 @@
+## Steps
+
 You can add a theme in **two ways**:
 
 * **Upload theme package** file .zip on your computer to Shopify.
@@ -10,8 +12,6 @@ You can add a theme in **two ways**:
 * Importing our sample data includes **product data**, **metafield** settings, our **prefine setting data **for multi style **setting data** theme style.
 
 Your website will have the same interface as our theme demo.
-
-### Step by Step
 
 1. **Install Theme Package**
 
@@ -26,6 +26,11 @@ Your website will have the same interface as our theme demo.
 4. [Setup Shopify Metafield for Extend Function](/shopify-metafield.md)
 
 5. [Apply Theme Styles](/change-theme-styles.md)
+
+
+
+
+
 
 
 

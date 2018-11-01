@@ -49,8 +49,6 @@ It's will show the sections for each page.![](/assets/page.png)
 
 ### Related topics
 
-1. [Add Wishlist Compare page](/pages/wishlist.md)
-2. [Add Lookbook Page](/pages/lookbook.md)
 
 
 
