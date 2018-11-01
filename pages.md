@@ -26,13 +26,9 @@ It's include
 
 * Page default - page
 * Page about us - page.about
-* Page about us V2 - page.about-us-v2
 * Page contact - page.contact
-* Page Lookbook - page.lookbook
-* Page Lookbook grid - page.lookbook-grid
-* Page Lookbook slider - page.lookbook-slider
-* Page Lookbook slider V2 - page.lookbook-slider-2
-* Page Faq - page.faq
+* Page Vendor Store Listing - page.vendor
+* Page Store Location - page.store-location
 
 When you install Wishlist & Compare by Arena app, it's will sync one more page templates for Compare function
 

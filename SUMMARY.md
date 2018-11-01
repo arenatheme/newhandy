@@ -35,7 +35,6 @@
   * [Add Product  Augmented Reality 3D](products/product-ar.md)
   * [Add Bundle Product ](products/bundle-product-page.md)
 * [Pages](pages.md)
-  * [Lookbook](pages/lookbook.md)
   * [About us & Contact Us](pages/about-us.md)
   * Vendor List
   * Store Location
