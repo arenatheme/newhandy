@@ -34,7 +34,7 @@
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
   * [Add Product  Augmented Reality 3D](products/product-ar.md)
-  * [Add Bundle Product ](products/bundle-product-page.md)
+  * [Add Bundle Products](products/bundle-product-page.md)
 * [Pages](pages.md)
   * [About us & Contact Us](pages/about-us.md)
   * [Vendor List](pages/vendor-list.md)

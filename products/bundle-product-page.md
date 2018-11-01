@@ -8,7 +8,7 @@ The theme only support bundle style for product use follow templates:
 * Product Big image with bundle product: `product.big-image-bundle`
 
 
-## Step 1: SET Metafields data for Bundle Product
+## Step 1: Add Metafields data for Bundle Product
 
 You may following instruction [Shopify Metafield name Bundle Product ](/shopify-metafield.md)
 
