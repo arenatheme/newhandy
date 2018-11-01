@@ -22,6 +22,7 @@
     * [Footer](footer.md)
     * [Header](header.md)
       * [Add Mega Navigation](extensions/mega-navigation-setup.md)
+      * Left Column Section
 * [Collection](collection.md)
   * [Add Sub Collection](collection/add-sub-collection.md)
   * [Add Nested Collection Menu](collection/add-nested-collection-menu.md)
@@ -36,8 +37,8 @@
   * [Add Bundle Product ](products/bundle-product-page.md)
 * [Pages](pages.md)
   * [About us & Contact Us](pages/about-us.md)
-  * Vendor List
-  * Store Location
+  * [Vendor List](pages/vendor-list.md)
+  * [Store Location](pages/store-location.md)
 
 ## Extensions
 
