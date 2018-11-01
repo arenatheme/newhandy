@@ -35,31 +35,23 @@ You can change product page template view by add `?view=product.templatename` at
 * product.bundle -> `?view=bundle`
 * product.image-sliderv2 -> `?view=redirect`
  
+
 ### Related topics
 
 * [Product Color or Image Variants](/products/product-color-variant.md)
-* [Product Grouping images with variants](/products/product-grouping-images-with-variants.md)
 * [Product Size Variant](/products/product-quantity-selector.md)
-* [Pro Multi-Tab Description](/products/product-multi-tab-description.md)
-* [Bundle Product Page](/products/bundle-product-page.md)
-* [Short Description](/products/countdown-product.md)
-* [Countdown Timer](/products/count-down-product.md)
-* [Exit Intent Popup Coupon](/extensions/exit-intent-popup.md)
+* [Unique & Static Multi-Tab Description](/products/product-multi-tab-description.md)
+* [Product with Bundle Produ](/products/bundle-product-page.md)
+* [Product with Short Description](/products/countdown-product.md)
+* [Product with Countdown Timer](/products/count-down-product.md)
+* [Product with Exit Intent Popup Coupon](/extensions/exit-intent-popup.md)
+
 
 ### Demos
 
-[^1] Demo [https://arena-Handy.myshopify.com/products/fixair-product-sample](https://arena-Handy.myshopify.com/products/fixair-product-sample)
-[^2] Demo [https://arena-Handy.myshopify.com/products/gooddox-product-sample](https://arena-Handy.myshopify.com/products/gooddox-product-sample)
-[^3] Demo [https://arena-Handy.myshopify.com/products/quisque-placerat-libero](https://arena-Handy.myshopify.com/products/quisque-placerat-libero)
-[^4] Demo [https://arena-Handy.myshopify.com/products/danin-product-sample](https://arena-Handy.myshopify.com/products/danin-product-sample)
-[^5] Demo [https://arena-Handy.myshopify.com/products/finity-product-sample](https://arena-Handy.myshopify.com/products/finity-product-sample)
-[^6] Demo [https://arena-Handy.myshopify.com/products/anity-product-sample](https://arena-Handy.myshopify.com/products/anity-product-sample)
-[^7] Demo [https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top](https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top)
-[^8] Demo [https://arena-Handy.myshopify.com/products/consectetur-nibh-eget](https://arena-Handy.myshopify.com/products/consectetur-nibh-eget)
-[^9] Demo [https://arena-Handy.myshopify.com/products/flexlam-product-sample](https://arena-Handy.myshopify.com/products/flexlam-product-sample)
-
-
-
+[^1] Demo [https://arena-handy.myshopify.com/products/black-fashion-zapda-shoes](https://arena-handy.myshopify.com/products/black-fashion-zapda-shoes)
+[^2] Demo [https://arena-handy.myshopify.com/products/black-fashion-zapda-shoes](https://arena-handy.myshopify.com/products/black-fashion-zapda-shoes)
+[^3] Demo [https://arena-handy.myshopify.com/products/aommodo-ligula](https://arena-handy.myshopify.com/products/aommodo-ligula)
 
 
 
