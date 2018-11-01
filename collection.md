@@ -46,7 +46,6 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
 * From the top bar drop-down menu, select the type of page that you want to edit. **Select** **Collection pages**
-* Change collection templates to Customize by add at the end of URL at browser
 
 **Note:** 
 
@@ -61,6 +60,9 @@ In order to customize collection template, you should change right handle collec
   Eg. .../editor#/collections/kitchen-things
   -> customize collection infinite (as I assign kitchen-things to display Infinite template before)
 ```
+Or you may assign collection template to default collection page and change it to config one by one.
+
+
 
 #### Options: depend on collection templates
 
