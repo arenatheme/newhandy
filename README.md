@@ -1,6 +1,6 @@
 ## Getting started with Handy
 
-Document Online version: https://legacy.gitbook.com/read/book/arenatheme/handy
+Document Online version: https://arenatheme.gitbooks.io/handy/content/
 
 
 ###New to Shopify?
