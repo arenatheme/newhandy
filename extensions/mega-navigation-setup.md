@@ -40,7 +40,7 @@ The theme support 2 types of Mega navigation styles.
 
 ![](/assets/navi3.png)
 
-#### Add Horizontal Mega Navigation Content \(Mega Navigation\)
+#### Add Horizontal Mega Navigation Content \(Mega Navigation\) {#horizontal-navigation}
 
 * Mega Navigation will show in 1 block \(1 row - **4 columns**\). 
 * Layout: 12 gird layout system. [https://getbootstrap.com/docs/4.0/layout/grid/](https://getbootstrap.com/docs/4.0/layout/grid/)
