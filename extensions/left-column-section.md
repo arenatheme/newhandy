@@ -61,9 +61,5 @@ From your Shopify admin, go to **Online Store &gt; Themes.**
 
 Repeat steps 4 and 5 until you have uploaded all your images.
 
----
-
-### 4.  {#mobile-navigation-icon}
-
 
 

@@ -1,6 +1,6 @@
 As this is a completely new Mega Menu, if you have any installation issues, please contact our support team for answers: [https://arenathemes.freshdesk.com/support/tickets/new](https://arenathemes.freshdesk.com/support/tickets/new)
 
-### How to setup Mega Navigation
+### 1. How to setup Mega Navigation
 
 #### Steps
 
@@ -22,9 +22,9 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 * You may setting **Position Menu** for **Header Style 1,3,10**
 * Enable Mega Navigation: Show **Mega Navigation** content will setting at **CONTENT** block below
-* Menu Flyout Left: Catch **handle navigation** to flyout left
+* **Menu Flyout Left**: Catch **handle navigation \(menu items\)** to flyout left
 
-### ADD MEGA NAVIGATION
+### Add Mega Navigation
 
 * Click Add Content and Select type of navigation
 
@@ -100,8 +100,6 @@ Most settings will be similar to other mega navigation content types. However du
 * Tick **Show Tab 01** to display tab 1.
 * Tab Heading: Display Tab Heading, as you can see in demo is ALLURE
 
-
-
 ### Add thumbnail icon to Mobile Navigation {#mobile-navigation-icon}
 
 You can upload an image to theme assets to represents thumbnail of navigation link on mobile
@@ -118,7 +116,9 @@ From  Section **Header** &gt; **NAVIGATION. **At** Mobile menu thumbnail **you 
 
 ![](/assets/handle-item.png)
 
-#### Add image to assets for mobile thumbnail
+---
+
+#### 2. Add image to assets for mobile thumbnail
 
 `For example, if you select a menu item called 'Birthday Gifts', then name your image birthday-gifts.png, birthday-gifts.svg`
 
@@ -135,6 +135,4 @@ From  Section **Header** &gt; **NAVIGATION. **At** Mobile menu thumbnail **you 
 5. **Upload your image.**
 
 Repeat steps 4 and 5 until you have uploaded all your images.
-
-
 
