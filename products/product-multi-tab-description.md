@@ -1,8 +1,9 @@
 ### Add Product Description Tab
+
 1. From your Shopify admin, go to **Online Store &gt; Themes.**
 2. Find the theme that you want to edit and click **Customize**.
 3. **From the top bar drop-down menu, select the type of page that you want to edit.**
-4. Click the Product Section to customize. Eg. Product pages default 
+4. Click the **Product** Section to customize. Eg. Product pages default 
 5. Navigate to CONTENT tab. Click **Add content**, select **Standard - Description**
 6. Click Save.
 
@@ -10,16 +11,15 @@
 
 Static tab are created base on Your Shopify page Content. It's usefull for some content that is same for all the products like Shipping term, Size Guide, and so on
 
-It's require to [add a Page](/pages.md) before to use for the Description Tab. Eg.  Shipping Term page. 
-1. From your Shopify admin, go to **Online Store &gt; Themes.**
-2. Find the theme that you want to edit and click **Customize**.
-3. **From the top bar drop-down menu, select the type of page that you want to edit.**
-4. Click the Product Section to customize. Eg. Product pages default 
-5. Navigate to CONTENT tab. Click **Add content**, select **Static Page**
-6. Modify **Heading** and **select Page** to use.
-7. Click **Save**
+It's require to [add a Page](/pages.md) before to use for the Description Tab. Eg.  Shipping Term page.   
+1. From your Shopify admin, go to **Online Store &gt; Themes.**  
+2. Find the theme that you want to edit and click **Customize**.  
+3. **From the top bar drop-down menu, select the type of page that you want to edit.**  
+4. Click the Product Section to customize. Eg. Product pages default   
+5. Navigate to CONTENT tab. Click **Add content**, select **Static Page**  
+6. Modify **Heading** and **select Page** to use.  
+7. Click **Save**  
 8. New Description tab with display with Heading name and content of the tab is the page you select at 7.
-
 
 ### Add Product Dynatic Description Tab
 
@@ -36,8 +36,7 @@ Standard tab are created base on your **Product description content**. If you'd 
 
 ```
 <h5>Tabs Title</h5>.
-
 ```
-![](/assets/product description dynamic.png)
 
+![](/assets/product description dynamic.png)
 

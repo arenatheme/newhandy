@@ -35,6 +35,8 @@
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
   * [Add Product  Augmented Reality 3D](products/product-ar.md)
   * [Add Bundle Products](products/bundle-product-page.md)
+  * [PEOPLE IN CART - Other people want this](products/people-in-cart-other-people-want-this.md)
+  * [ORDER AND SHIPPING TIME](products/order-and-shipping-time.md)
 * [Pages](pages.md)
   * [About us & Contact Us](pages/about-us.md)
   * [Vendor List](pages/vendor-list.md)
