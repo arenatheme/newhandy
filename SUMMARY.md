@@ -46,6 +46,6 @@
 
 * [Multi Currency](summary/currency.md)
 * [Fomo Popup](theme-settings.md)
-* [ArenaFont](how-to-use-and-update-arenafont.md)
+* [Arena Icon Font](how-to-use-and-update-arenafont.md)
 * [Changelog](extensions/changelog.md)
 
