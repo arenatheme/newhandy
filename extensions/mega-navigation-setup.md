@@ -102,3 +102,39 @@ Most settings will be similar to other mega navigation content types. However du
 
 
 
+### Add thumbnail icon to Mobile Navigation {#mobile-navigation-icon}
+
+You can upload an image to theme assets to represents thumbnail of navigation link on mobile
+
+![](/assets/icon-mobile.png).
+
+From  Section **Header** &gt; **NAVIGATION. **At** Mobile menu thumbnail **you may select 3 options:
+
+* Upload image from assets png format : use PNG image from your theme assets to display as thumbnail. 
+* Upload image from assets svg format : use SVG image from your theee asssets to display as thumbanil.
+* None: Don't display thumbnail
+
+**The image must be named similar Menu items, but be handleized, and have a .png/svg extension.**
+
+![](/assets/handle-item.png)
+
+#### Add image to assets for mobile thumbnail
+
+`For example, if you select a menu item called 'Birthday Gifts', then name your image birthday-gifts.png, birthday-gifts.svg`
+
+##### Steps.
+
+1. From your Shopify admin, go to **Online Store &gt; Themes.**
+
+2. Find the theme you want to edit, and then click **Actions &gt; Edit code.**
+
+3. On the **Edit HTML/CSS page**, locate and click on the **Assets** folder to reveal its content.
+
+4. Under the **Assets** heading, click on the **Add** a new asset link.
+
+5. **Upload your image.**
+
+Repeat steps 4 and 5 until you have uploaded all your images.
+
+
+
