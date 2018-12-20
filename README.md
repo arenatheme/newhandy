@@ -1,4 +1,4 @@
-## Getting started with Handy
+## Getting started with Handy
 
 Document Online version: https://arenatheme.gitbooks.io/handy/content/
 
