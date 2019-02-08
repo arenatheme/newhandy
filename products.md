@@ -25,7 +25,7 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 * From the top bar drop-down menu, select the type of page that you want to edit from the top bar drop-down menu.
 
-* Select **Product pages.** Now you will access to edit Sections for Product page.  
+* Select **Product pages.**  Now you will access to edit Sections for aProduct page.  
 
 However, Shopify only support for only **1 product page template** to customize at select tab.
 
